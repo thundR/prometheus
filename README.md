@@ -23,5 +23,9 @@ for more information on getting your keys.
     gradlew build
     gradlew run
 
+## TODO
 
+- username is hardcoded to 'ubuntu'
+- allow for command line configuration
+- config file read/write via JSON
 
