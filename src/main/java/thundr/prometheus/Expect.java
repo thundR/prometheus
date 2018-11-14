@@ -9,6 +9,7 @@ import java.nio.channels.Channels;
 import java.nio.channels.Pipe;
 import java.nio.channels.SelectionKey;
 import java.nio.channels.Selector;
+import java.nio.channels.Pipe.SinkChannel;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.regex.Matcher;
